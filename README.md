@@ -61,22 +61,6 @@ I'm a Senior Software Developer and IT-Consultant and have more than 15 years ex
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=event-engine&repo=php-code-generator-event-engine-ast&title_color=ffffff&text_color=c9cacc&icon_color=29b28f&bg_color=1d1f21" />
 </a>
 
-<a href="https://github.com/sandrokeil/arangodb-php-client">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sandrokeil&repo=arangodb-php-client&title_color=ffffff&text_color=c9cacc&icon_color=29b28f&bg_color=1d1f21" />
-</a>
-
 <a href="https://github.com/sandrokeil/simdjson-php-polyfill">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sandrokeil&repo=simdjson-php-polyfill&title_color=ffffff&text_color=c9cacc&icon_color=29b28f&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/sandrokeil/docker-files">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sandrokeil&repo=docker-files&title_color=ffffff&text_color=c9cacc&icon_color=29b28f&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/sandrokeil/yubikey-full-disk-encryption-secure-boot-uefi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sandrokeil&repo=yubikey-full-disk-encryption-secure-boot-uefi&title_color=ffffff&text_color=c9cacc&icon_color=29b28f&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/sandrokeil/interop-config">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sandrokeil&repo=interop-config&title_color=ffffff&text_color=c9cacc&icon_color=29b28f&bg_color=1d1f21" />
 </a>
