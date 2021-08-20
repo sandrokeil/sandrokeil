@@ -21,8 +21,9 @@ I'm a Senior Software Developer and IT-Consultant and have more than 15 years ex
 ![](https://img.shields.io/badge/Domain--Driven--Design-informational?style=for-the-badge&color=29b28f)
 ![](https://img.shields.io/badge/CQRS-informational?style=for-the-badge&color=29b28f)
 ![](https://img.shields.io/badge/Event_Sourcing-informational?style=for-the-badge&color=29b28f)
-![](https://img.shields.io/badge/Webservices_REST\/SOAP-informational?style=for-the-badge&color=29b28f)
-![](https://img.shields.io/badge/JSON\/XML-informational?style=for-the-badge&color=29b28f)
+![](https://img.shields.io/badge/Web_services_REST\/SOAP-informational?style=for-the-badge&color=29b28f)
+![](https://img.shields.io/badge/JSON\/JSON--Schema-informational?style=for-the-badge&color=29b28f)
+![](https://img.shields.io/badge/XML\/XSD-informational?style=for-the-badge&color=29b28f)
 ![](https://img.shields.io/badge/Continuous_Integration-informational?style=for-the-badge&color=29b28f)
 
 ![](https://img.shields.io/badge/PostgreSQL-informational?style=for-the-badge&logo=postgresql&logoColor=white&color=29b28f)
@@ -63,4 +64,8 @@ I'm a Senior Software Developer and IT-Consultant and have more than 15 years ex
 
 <a href="https://github.com/sandrokeil/simdjson-php-polyfill">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sandrokeil&repo=simdjson-php-polyfill&title_color=ffffff&text_color=c9cacc&icon_color=29b28f&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/event-engine/inspectio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=event-engine&repo=free-inspectio&title_color=ffffff&text_color=c9cacc&icon_color=29b28f&bg_color=1d1f21" />
 </a>
