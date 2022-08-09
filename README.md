@@ -7,7 +7,7 @@ I'm a Senior Software Developer and IT-Consultant and have more than 15 years ex
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-informational?link=&style=social&logo=linkedin)](https://www.linkedin.com/in/sandro-keil)
 [![Twitter](https://img.shields.io/badge/Twitter-informational?style=social&logo=twitter)](https://twitter.com/sandrokeil)
-[![Xing](https://img.shields.io/badge/Xing-informational?link=https://www.xing.com/profile/Sandro_Keil&style=social&logo=xing)
+[![Xing](https://img.shields.io/badge/Xing-informational?link=https://www.xing.com/profile/Sandro_Keil&style=social&logo=xing)](https://www.xing.com/profile/Sandro_Keil)
 [![Zend Certificates](https://img.shields.io/badge/Zend_ZCE-informational?style=social&logo=zend)](https://www.zend-zce.com/en/yellow-pages/ZEND010955)
 
 ## 🔧 Technologies & Tools
@@ -16,9 +16,7 @@ I'm a Senior Software Developer and IT-Consultant and have more than 15 years ex
 ![](https://img.shields.io/badge/ReactJS-informational?style=for-the-badge&logo=reactjs&logoColor=white&color=29b28f)
 ![](https://img.shields.io/badge/Node.js-informational?style=for-the-badge&logo=nodedotjs&logoColor=white&color=29b28f)
 ![](https://img.shields.io/badge/Redux-informational?style=for-the-badge&logo=redux&logoColor=white&color=29b28f)
-![](https://img.shields.io/badge/Java-informational?style=for-the-badge&logo=java&logoColor=white&color=29b28f)
 ![](https://img.shields.io/badge/C++-informational?style=for-the-badge&logo=cplusplus&logoColor=white&color=29b28f)
-![](https://img.shields.io/badge/Python-informational?style=for-the-badge&logo=python&logoColor=white&color=29b28f)
 
 ![](https://img.shields.io/badge/Domain--Driven--Design-informational?style=for-the-badge&color=29b28f)
 ![](https://img.shields.io/badge/CQRS-informational?style=for-the-badge&color=29b28f)
@@ -34,6 +32,7 @@ I'm a Senior Software Developer and IT-Consultant and have more than 15 years ex
 ![](https://img.shields.io/badge/ArangoDB-informational?style=for-the-badge&logo=postgresql&logoColor=white&color=29b28f)
 ![](https://img.shields.io/badge/MariaDB-informational?style=for-the-badge&logo=postgresql&logoColor=white&color=29b28f)
 ![](https://img.shields.io/badge/MySQL-informational?style=for-the-badge&logo=postgresql&logoColor=white&color=29b28f)
+![](https://img.shields.io/badge/Elasticsearch-informational?style=for-the-badge&logo=elasticsearch&logoColor=white&color=29b28f)
 
 ![](https://img.shields.io/badge/Docker-informational?style=for-the-badge&logo=docker&logoColor=white&color=29b28f)
 ![](https://img.shields.io/badge/Kubernetes-informational?style=for-the-badge&logo=kubernetes&logoColor=white&color=29b28f)
@@ -45,6 +44,8 @@ I'm a Senior Software Developer and IT-Consultant and have more than 15 years ex
 
 ![](https://img.shields.io/badge/Amazon_Web_Services-informational?style=for-the-badge&logo=amazonaws&logoColor=white&color=29b28f)
 ![](https://img.shields.io/badge/Google_Cloud_Platform-informational?style=for-the-badge&logo=googlecloud&logoColor=white&color=29b28f)
+![](https://img.shields.io/badge/Microservices-informational?style=for-the-badge&logoColor=white&color=29b28f)
+![](https://img.shields.io/badge/Serverless-informational?style=for-the-badge&logo=serverless&logoColor=white&color=29b28f)
 
 
 ## &#x1f4c8; GitHub Stats
